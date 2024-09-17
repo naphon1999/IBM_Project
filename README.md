@@ -1,4 +1,4 @@
-# IBM_project
+# IBM_Project
 Naphon's data science project practice with Python
 
 ## Project content
