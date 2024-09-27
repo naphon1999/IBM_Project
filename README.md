@@ -7,5 +7,4 @@ Naphon's data science project practice with Python
 3. Visualisation with Power BI
 4. and many more to come
 
-## "Let's go on an adventure together!"
 ![One Piece](https://images3.alphacoders.com/134/thumb-1920-1342304.jpeg)
